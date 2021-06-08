@@ -1,0 +1,11 @@
+
+@media (max-width: 1400px){
+	.wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+}
+@media (max-width: 1200px){
+
+}
